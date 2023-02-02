@@ -1,5 +1,20 @@
+body{background-color: #7ea4ae;}
 .App {
   text-align: center;
+  margin-top: 200px;
+  border: 10px solid rgba(69, 67, 67, 0.313);
+  background-color: white;
+}
+.App h4.auth{
+  font-style: italic;
+
+}
+.App span{
+  font-size: larger;
+}
+button:hover{
+  transform: scale(1.2);
+  color: rgb(133, 172, 159);
 }
 
 .App-logo {
